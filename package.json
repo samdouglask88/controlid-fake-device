@@ -1,0 +1,22 @@
+{
+  "name": "controlid-fake-device",
+  "version": "1.0.0",
+  "description": "Um relógio de ponto Control iD de mentira, para testar integração de biometria sem o aparelho",
+  "main": "device.js",
+  "scripts": {
+    "start": "node device.js"
+  },
+  "keywords": [
+    "controlid",
+    "idclass",
+    "ponto",
+    "biometria",
+    "fake",
+    "mock",
+    "rep"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
